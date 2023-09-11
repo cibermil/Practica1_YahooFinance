@@ -1,2 +1,1 @@
-# Practica1_YahooFinance
-Extracción de datos de Yahoo Finance
+# ciberseguridad-practica1-grupoA
